@@ -1,10 +1,4 @@
-# angular7-example
-
-sample project using angular 7 contains:
-1. Home
-2. About
-3. Contact us form 
-
+# Angular Project
 
 ## Getting started
 
